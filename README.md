@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 <html>
  <head>
  <meta charset="UTF-8">
- <title> makeup-sunshine </title>
+ <title>makeup-sunshine</title>
  <link rel="icon" href="original.jpg" type="image/x-icon" />
  
 <body>
