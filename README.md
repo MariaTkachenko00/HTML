@@ -1,4 +1,4 @@
-ССЫЛКА НА СОДЕРЖИМОЕ file:///C:/Users/%D0%9C%D0%B0%D1%88%D0%B0/Desktop/dz3/index.html
+
 <!DOCTYPE html>
 <html>
  <head>
