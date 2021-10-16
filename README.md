@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
  <head>
  <meta charset="UTF-8">
  <title>makeup-sunshine</title>
@@ -25,4 +25,4 @@
  <a href="https://www.youtube.com/user/OlyaRedAutumn"> OlyaRedAutumn </a>
  <a href="https://www.youtube.com/channel/UCLRVZVlwsa_wERoCpwdu5Mw"> Mira One </a>
  </body>
- </html>
+ </html/
